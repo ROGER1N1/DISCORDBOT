@@ -41,7 +41,7 @@ client.lavalink = new LavalinkManager({
   autoSkip: true,
   client: {
     id: process.env.DISCORD_CLIENT_ID,
-    username: 'Lanya',
+    username: 'Roger1N1',
   },
   playerOptions: {
     onEmptyQueue: {
