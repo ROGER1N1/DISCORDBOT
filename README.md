@@ -160,7 +160,7 @@ For any assistance, feature requests, or bug reports, join our official support 
 
 ```bash
 git clone https://github.com/ROGER1N1/DISCORDBOT.git
-cd Lanya
+cd Roger1N1
 ```
 
 2. **Install Dependencies**
