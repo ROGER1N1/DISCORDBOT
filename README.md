@@ -160,7 +160,7 @@ For any assistance, feature requests, or bug reports, join our official support 
 
 ```bash
 git clone https://github.com/ROGER1N1/DISCORDBOT.git
-cd Roger1N1
+cd chitichat
 ```
 
 2. **Install Dependencies**
