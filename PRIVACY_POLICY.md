@@ -2,7 +2,7 @@
 
 _Last updated: March 4, 2025_
 
-Lanya respects your privacy. This policy explains what data the Bot collects and how it is used.
+Roger1 respects your privacy. This policy explains what data the Bot collects and how it is used.
 
 ## 1. Data Collection
 
@@ -23,4 +23,4 @@ Lanya respects your privacy. This policy explains what data the Bot collects and
 
 - This Privacy Policy may be updated periodically. Continued use of the Bot after updates means you accept the changes.
 
-For any concerns, visit the [GitHub repository](https://github.com/birajrai/lanya).
+For any concerns, visit the [GitHub repository](https://github.com/ROGER1N1/DISCORDBOT).
