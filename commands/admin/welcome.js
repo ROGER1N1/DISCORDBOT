@@ -171,7 +171,7 @@ module.exports = {
       }
       const memberCount = guild.memberCount;
 
-      let description = welcome.description || 'Welcome {member} to {server}';
+      let description = welcome.description || 'Hey {member}, Welcome to {server} {membercount}';
       description = description
         .replace(/{member}/g, interaction.user)
         .replace(/{server}/g, guild.name)
