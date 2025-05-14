@@ -9,7 +9,7 @@
   [![Stars](https://img.shields.io/github/stars/birajrai/Lanya?style=social)](https://github.com/ROGER1N1)
 </div>
 
-## ✨ About Lanya
+## ✨ About CHITICHAT
 
 Lanya is a Discord bot built to improve server engagement and provide useful tools for both administrators and members. With commands ranging from fun interactions to powerful moderation tools.
 
