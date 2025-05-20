@@ -1,0 +1,55 @@
+{
+  "name": "lanya",
+  "version": "3.4.3",
+  "description": "An open-source Discord bot designed to enhance community interaction with a variety of engaging and useful features.",
+  "main": "lanya.js",
+  "keywords": [
+    "javascript",
+    "discord",
+    "moderation",
+    "discordjs",
+    "lanya"
+  ],
+  "author": "birajrai",
+  "license": "MIT",
+  "scripts": {
+    "start": "cross-env NODE_NO_WARNINGS=1 node lanya.js",
+    "setup": "node setup.js",
+    "format": "npx prettier --write ."
+  },
+  "dependencies": {
+    "@keyv/mongo": "^3.0.1",
+    "@napi-rs/canvas": "^0.1.68",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "aki-api": "^7.0.0",
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.13",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "fuse.js": "^7.1.0",
+    "html-entities": "^2.5.2",
+    "lavalink-client": "^2.4.3",
+    "moment": "^2.30.1",
+    "mongoose": "^8.7.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.7.0",
+    "node.js": "^0.0.1-security",
+    "passport": "^0.7.0",
+    "passport-discord": "^0.1.4",
+    "pretty-ms": "^9.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "cross-env": "^7.0.3",
+    "prettier": "^3.3.3",
+    "ts-migrate": "^0.1.35"
+  }
+}

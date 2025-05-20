@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+config.json
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+Lanya.zip
+*.zip
+*.rar
